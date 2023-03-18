@@ -1,0 +1,5 @@
+ 1. Upload remaining Images in /assets/images/members/2019-2023. 
+ 2. Look for Line 297-298 in File slider.js, in /assets/js.
+ 3. Apply  following changes in "members2019" array, look for image property and Change the name of image as uploaded previously. 
+    
+
